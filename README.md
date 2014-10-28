@@ -5,7 +5,7 @@ A list of Android Libraries.  All in alphabetical order.
 ###Index
 * [Networking](#networking)
 * [Image Loader](#image-loader)
-* [Dependency Injection](#dependency-injection)
+* [Dependency Injections](#dependency-injections)
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
@@ -34,7 +34,7 @@ Name | Repository | License
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Dependency Injection
+## Dependency Injections
 Name | Repository | License
 --- | --- | --- | ---
 [AndroidAnnotations](http://androidannotations.org/) | https://github.com/excilys/androidannotations | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -47,7 +47,10 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 ## O/R Mapping 
 Name | Repository | License
