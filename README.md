@@ -9,6 +9,7 @@ A list of Android Libraries.  All in alphabetical order.
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
+* [Pub/Sub](#pub-sub)
 
 
 ## Networking
@@ -61,3 +62,10 @@ Name | Repository | License
 [Couchbase-Lite-Android](http://developer.couchbase.com/mobile/) | https://github.com/couchbase/couchbase-lite-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Realm](http://realm.io/) | https://github.com/realm/realm-java | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SnappyDB](http://www.snappydb.com/) | https://github.com/nhachicha/SnappyDB | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Pub/Sub
+Name | Repository | License
+--- | --- | --- | ---
+[EventBus](https://github.com/greenrobot/EventBus) | https://github.com/greenrobot/EventBus | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Otto](http://square.github.io/otto/) | https://github.com/square/otto | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
