@@ -11,7 +11,7 @@ A list of Android Libraries.  All in alphabetical order.
 * [NoSQL](#nosql)
 * [Pub/Sub](#pubsub)
 * [Logger](#logger)
-* [Queue](#queue)
+* [Background Processing](#background-processing)
 
 
 ## Networking
@@ -80,7 +80,7 @@ Name | Repository | License
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Queue
+## Background Processing
 Name | Repository | License
 --- | --- | --- | ---
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
