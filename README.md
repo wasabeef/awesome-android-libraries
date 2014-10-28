@@ -10,6 +10,7 @@ A list of Android Libraries.  All in alphabetical order.
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
 * [Pub/Sub](#pubsub)
+* [Logger](#logger)
 
 
 ## Networking
@@ -69,3 +70,8 @@ Name | Repository | License
 [EventBus](https://github.com/greenrobot/EventBus) | https://github.com/greenrobot/EventBus | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Otto](http://square.github.io/otto/) | https://github.com/square/otto | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Logger
+Name | Repository | License
+--- | --- | --- | ---
+[Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
