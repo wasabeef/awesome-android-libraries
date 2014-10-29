@@ -1,6 +1,6 @@
 List of Android Libraries
 ======================
-A list of Android Libraries.  All in alphabetical order.
+This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
 ###Index
 * [Networking](#networking)
