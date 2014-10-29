@@ -84,6 +84,6 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Android Priority Job Queue](https://github.com/googlesamples/android-JobScheduler) | https://github.com/googlesamples/android-JobScheduler | [MIT](http://opensource.org/licenses/MIT)
+[Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) | https://github.com/path/android-priority-jobqueue | [MIT](http://opensource.org/licenses/MIT)
 
  
