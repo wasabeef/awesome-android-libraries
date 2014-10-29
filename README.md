@@ -6,6 +6,7 @@ A list of Android Libraries.  All in alphabetical order.
 * [Networking](#networking)
 * [Image Loader](#image-loader)
 * [Dependency Injections](#dependency-injections)
+* [FRP](#frp)
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
@@ -45,14 +46,17 @@ Name | Repository | License
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## FRP
+Name | Repository | License
+--- | --- | --- | ---
+[RxJava](https://github.com/ReactiveX/RxJava) | https://github.com/ReactiveX/RxJava | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 ## JSON 
 Name | Repository | License
 --- | --- | --- | ---
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
-
 
 ## O/R Mapping 
 Name | Repository | License
