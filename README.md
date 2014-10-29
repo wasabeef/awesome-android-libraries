@@ -12,6 +12,8 @@ A list of Android Libraries.  All in alphabetical order.
 * [Pub/Sub](#pubsub)
 * [Logger](#logger)
 * [Background Processing](#background-processing)
+* [Fonts](#fonts)
+* [Video](#video)
 
 
 ## Networking
@@ -83,7 +85,18 @@ Name | Repository | License
 ## Background Processing
 Name | Repository | License
 --- | --- | --- | ---
-[Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) | https://github.com/path/android-priority-jobqueue | [MIT](http://opensource.org/licenses/MIT)
+[Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Fonts
+Name | Repository | License
+--- | --- | --- | ---
+[Calligraphy](https://github.com/chrisjenx/Calligraphy) | https://github.com/chrisjenx/Calligraphy | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
  
+## Video
+Name | Repository | License
+--- | --- | --- | ---
+[ijkplayer](https://github.com/bbcallen/ijkplayer) | https://github.com/bbcallen/ijkplayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[mp4parser](https://code.google.com/p/mp4parser/) | https://github.com/sannies/mp4parser | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+
