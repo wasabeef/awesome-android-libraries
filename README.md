@@ -15,6 +15,7 @@ A list of Android Libraries.  All in alphabetical order.
 * [Background Processing](#background-processing)
 * [Fonts](#fonts)
 * [Video](#video)
+* [Parcelables](#parcelables)
 
 
 ## Networking
@@ -102,5 +103,13 @@ Name | Repository | License
 --- | --- | --- | ---
 [ijkplayer](https://github.com/bbcallen/ijkplayer) | https://github.com/bbcallen/ijkplayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [mp4parser](https://code.google.com/p/mp4parser/) | https://github.com/sannies/mp4parser | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Parcelables
+Name | Repository | License
+--- | --- | --- | ---
+[AutoParcel](https://github.com/frankiesardo/auto-parcel) | https://github.com/frankiesardo/auto-parcel | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 
