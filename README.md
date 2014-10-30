@@ -18,6 +18,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Fonts](#fonts)
 * [Video](#video)
 * [Parcelables](#parcelables)
+* [Functional Programming](#functional-programming)
 
 
 ## Networking
@@ -113,5 +114,9 @@ Name | Repository | License
 [Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Functional Programming
+Name | Repository | License
+--- | --- | --- | ---
+[Retrolambda](https://github.com/orfjackal/retrolambda) | https://github.com/orfjackal/retrolambda | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 
