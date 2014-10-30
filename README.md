@@ -19,6 +19,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Video](#video)
 * [Parcelables](#parcelables)
 * [Functional Programming](#functional-programming)
+* [Social Networks](#social-networks)
 
 
 ## Networking
@@ -119,4 +120,9 @@ Name | Repository | License
 --- | --- | --- | ---
 [Retrolambda](https://github.com/orfjackal/retrolambda) | https://github.com/orfjackal/retrolambda | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-
+## Social Networks
+Name | Repository | License
+--- | --- | --- | ---
+[ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE | [MIT](http://opensource.org/licenses/MIT)
+[Twitter Fabric](https://dev.twitter.com/products/fabric) | https://github.com/gorbin/ASNE | [MIT](http://opensource.org/licenses/MIT)
+[Facebook SDK](https://developers.facebook.com/docs/android) | Unknown | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
