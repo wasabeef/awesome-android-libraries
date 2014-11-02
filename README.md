@@ -131,6 +131,7 @@ Showcases
 ======================
 Name | Repository | License
 --- | --- | --- | ---
+[android-best-practices](https://github.com/futurice/android-best-practices) | https://github.com/futurice/android-best-practices | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 [Google/iosched](https://github.com/google/iosched) | https://github.com/google/iosched | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [JakeWharton/u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | https://github.com/psaravan/JamsMusicPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
