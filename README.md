@@ -114,6 +114,7 @@ Name | Repository | License
 ## Video
 Name | Repository | License
 --- | --- | --- | ---
+[ExoPlayer](https://github.com/google/ExoPlayer) | https://github.com/google/ExoPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ijkplayer](https://github.com/bbcallen/ijkplayer) | https://github.com/bbcallen/ijkplayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [mp4parser](https://code.google.com/p/mp4parser/) | https://github.com/sannies/mp4parser | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
