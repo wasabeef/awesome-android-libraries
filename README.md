@@ -7,6 +7,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 ###Index
 * [Networking](#networking)
 * [Image Loader](#image-loader)
+* [Drawable](#drawable)
 * [Dependency Injections](#dependency-injections)
 * [FRP](#frp)
 * [JSON](#json)
@@ -41,6 +42,11 @@ Name | Repository | License
 [Picasso](http://square.github.io/picasso) | https://github.com/square/picasso | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Drawable
+Name | Repository | License
+--- | --- | --- | ---
+[MrVector](https://github.com/telly/MrVector) | https://github.com/telly/MrVector | [License](https://github.com/telly/MrVector/blob/master/LICENSE)
 
 ## Dependency Injections
 Name | Repository | License
