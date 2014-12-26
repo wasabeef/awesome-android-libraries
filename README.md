@@ -22,6 +22,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Functional Programming](#functional-programming)
 * [Social Networks](#social-networks)
 * [WebRTC](#webrtc)
+* [Image Processing](#image-processing)
 * [Showcases](#showcases)
 
 
@@ -143,6 +144,11 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [AndroidRTC](https://github.com/pchab/AndroidRTC) | https://github.com/pchab/AndroidRTC | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Image Processing
+Name | Repository | License
+--- | --- | --- | ---
+[GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 Showcases
 ======================
