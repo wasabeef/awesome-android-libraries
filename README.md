@@ -24,6 +24,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [WebRTC](#webrtc)
 * [Image Processing](#image-processing)
 * [Showcases](#showcases)
+* [Camera](#camera)
 
 
 ## Networking
@@ -162,3 +163,8 @@ Name | Repository | License
 [Reflection No Reflection](https://github.com/stephanenicolas/reflection-no-reflection) | https://github.com/stephanenicolas/reflection-no-reflection | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Camera
+Name | Repository | License
+--- | --- | --- | ---
+[Landscape video camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[EasyCamera](https://github.com/Glamdring/EasyCamera) | https://github.com/Glamdring/EasyCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
