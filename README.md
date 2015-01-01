@@ -23,8 +23,8 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Social Networks](#social-networks)
 * [WebRTC](#webrtc)
 * [Image Processing](#image-processing)
-* [Showcases](#showcases)
 * [Camera](#camera)
+* [Showcases](#showcases)
 
 
 ## Networking
@@ -152,19 +152,20 @@ Name | Repository | License
 --- | --- | --- | ---
 [GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-Showcases
-======================
-Name | Repository | License
---- | --- | --- | ---
-[android-best-practices](https://github.com/futurice/android-best-practices) | https://github.com/futurice/android-best-practices | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
-[Google/iosched](https://github.com/google/iosched) | https://github.com/google/iosched | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[JakeWharton/u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | https://github.com/psaravan/JamsMusicPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Reflection No Reflection](https://github.com/stephanenicolas/reflection-no-reflection) | https://github.com/stephanenicolas/reflection-no-reflection | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
 ## Camera
 Name | Repository | License
 --- | --- | --- | ---
 [Landscape video camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [EasyCamera](https://github.com/Glamdring/EasyCamera) | https://github.com/Glamdring/EasyCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+Showcases
+======================
+Name | Repository | License
+--- | --- | --- | ---
+[android-best-practices](https://github.com/futurice/android-best-practices) | https://github.com/futurice/android-best-practices | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+[iosched](https://github.com/google/iosched) | https://github.com/google/iosched | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | https://github.com/psaravan/JamsMusicPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Reflection No Reflection](https://github.com/stephanenicolas/reflection-no-reflection) | https://github.com/stephanenicolas/reflection-no-reflection | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Mizuu](http://mizuu.tv/) | https://github.com/MizzleDK/Mizuu | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
