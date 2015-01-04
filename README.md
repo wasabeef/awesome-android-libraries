@@ -60,6 +60,7 @@ Name | Repository | License
 [Dagger(Square)](http://square.github.io/dagger/) | https://github.com/square/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes | [MIT](http://opensource.org/licenses/MIT)
 
 ## FRP
 Name | Repository | License
