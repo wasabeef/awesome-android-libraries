@@ -1,7 +1,5 @@
 List of Android Libraries
 ======================
-[![Project Status](https://stillmaintained.com/wasabeef/awesome-android-libraries.png)](https://stillmaintained.com/wasabeef/awesome-android-libraries)
-
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
 **UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui).**
