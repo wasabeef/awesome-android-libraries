@@ -172,4 +172,5 @@ Name | Repository | License
 [Mizuu](http://mizuu.tv/) | https://github.com/MizzleDK/Mizuu | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Mover](https://github.com/ozodrukh/Mover) | https://github.com/ozodrukh/Mover | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Telecine](https://github.com/JakeWharton/Telecine) | https://github.com/JakeWharton/Telecine | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
