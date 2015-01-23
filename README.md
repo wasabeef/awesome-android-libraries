@@ -166,6 +166,7 @@ Showcases
 Name | Repository | License
 --- | --- | --- | ---
 [android-best-practices](https://github.com/futurice/android-best-practices) | https://github.com/futurice/android-best-practices | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+[BlurTestAndroid](https://github.com/patrickfav/BlurTestAndroid) | https://github.com/patrickfav/BlurTestAndroid | Unknown
 [iosched](https://github.com/google/iosched) | https://github.com/google/iosched | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | https://github.com/psaravan/JamsMusicPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Reflection No Reflection](https://github.com/stephanenicolas/reflection-no-reflection) | https://github.com/stephanenicolas/reflection-no-reflection | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
