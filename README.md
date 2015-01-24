@@ -172,7 +172,8 @@ Name | Repository | License
 [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | https://github.com/psaravan/JamsMusicPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Reflection No Reflection](https://github.com/stephanenicolas/reflection-no-reflection) | https://github.com/stephanenicolas/reflection-no-reflection | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Mizuu](http://mizuu.tv/) | https://github.com/MizzleDK/Mizuu | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Mover](https://github.com/ozodrukh/Mover) | https://github.com/ozodrukh/Mover | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Mover](http://mover.uz) | https://github.com/Codetail/Mover | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Telecine](https://github.com/JakeWharton/Telecine) | https://github.com/JakeWharton/Telecine | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
