@@ -27,7 +27,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Image Processing](#image-processing)
 * [Camera](#camera)
 * [Showcases](#showcases)
-
+* [Other](#other)
 
 ## Networking
 Name | Repository | License
@@ -177,3 +177,8 @@ Name | Repository | License
 [Telecine](https://github.com/JakeWharton/Telecine) | https://github.com/JakeWharton/Telecine | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+Other
+======================
+Name | Repository | License
+--- | --- | --- | ---
+[https://github.com/dlew/joda-time-android](https://github.com/dlew/https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
