@@ -101,6 +101,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [EventBus](https://github.com/greenrobot/EventBus) | https://github.com/greenrobot/EventBus | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Otto](http://square.github.io/otto/) | https://github.com/square/otto | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[MBassador](https://github.com/bennidi/mbassador) | https://github.com/bennidi/mbassador | [MIT](http://opensource.org/licenses/MIT)
 
 ## Logger
 Name | Repository | License
@@ -161,6 +162,11 @@ Name | Repository | License
 [Landscape video camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [EasyCamera](https://github.com/Glamdring/EasyCamera) | https://github.com/Glamdring/EasyCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Build
+Name | Repository | License
+--- | --- | --- | ---
+[Buck](https://github.com/facebook/buck) | https://github.com/facebook/buck | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 Showcases
 ======================
 Name | Repository | License
@@ -182,3 +188,4 @@ Other
 Name | Repository | License
 --- | --- | --- | ---
 [https://github.com/dlew/joda-time-android](https://github.com/dlew/https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
