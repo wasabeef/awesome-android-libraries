@@ -196,5 +196,5 @@ Other
 ======================
 Name | Repository | License
 --- | --- | --- | ---
-[https://github.com/dlew/joda-time-android](https://github.com/dlew/https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
