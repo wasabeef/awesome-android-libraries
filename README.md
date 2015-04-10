@@ -50,7 +50,7 @@ Name | Repository | License
 [Picasso](http://square.github.io/picasso) | https://github.com/square/picasso | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
+[Fresco](http://frescolib.org) | https://github.com/facebook/fresco | [BSD License](https://github.com/facebook/fresco/blob/master/LICENSE)
 ## Drawable
 Name | Repository | License
 --- | --- | --- | ---
