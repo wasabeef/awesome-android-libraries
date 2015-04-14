@@ -198,3 +198,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wasabeef/awesome-android-libraries/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
