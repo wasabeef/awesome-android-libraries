@@ -27,6 +27,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Image Processing](#image-processing)
 * [Camera](#camera)
 * [Security](#security)
+* [Media](#media)
 * [Showcases](#showcases)
 * [Other](#other)
 
@@ -91,6 +92,9 @@ Name | Repository | License
 [Shillelagh](https://github.com/pieces029/shillelagh) | https://github.com/pieces029/shillelagh | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[TriOrm](https://github.com/HendrixString/Android-TriOrm) | https://github.com/HendrixString/Android-TriOrm | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 ## NoSQL
 Name | Repository | License
@@ -118,6 +122,8 @@ Name | Repository | License
 --- | --- | --- | ---
 [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) | https://github.com/path/android-priority-jobqueue | [MIT](http://opensource.org/licenses/MIT)
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Zorn](https://github.com/HendrixString/Android-Zorn) | https://github.com/HendrixString/Android-Zorn | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 ## Fonts
 Name | Repository | License
@@ -175,6 +181,11 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Grab'n Run](https://github.com/lukeFalsina/Grab-n-Run) | https://github.com/lukeFalsina/Grab-n-Run | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Media
+Name | Repository | License
+--- | --- | --- | ---
+[PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | https://github.com/HendrixString/Android-PdfMyXml | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 Showcases
 ======================
