@@ -28,6 +28,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Camera](#camera)
 * [Security](#security)
 * [Showcases](#showcases)
+* [Maps](#maps)
 * [Other](#other)
 
 ## Networking
@@ -191,6 +192,14 @@ Name | Repository | License
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | https://github.com/klinker24/Talon-for-Twitter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Telecine](https://github.com/JakeWharton/Telecine) | https://github.com/JakeWharton/Telecine | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [u2020](https://github.com/JakeWharton/u2020) | https://github.com/JakeWharton/u2020 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+Maps
+======================
+Name | Repository | License
+--- | --- | --- | ---
+[GraphHopper](https://graphhopper.com) | https://github.com/graphhopper/graphhopper | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Mapsforge](https://github.com/mapsforge/mapsforge) | https://github.com/mapsforge/mapsforge | [LGPL](https://www.gnu.org/licenses/lgpl.html)
+
 
 Other
 ======================
