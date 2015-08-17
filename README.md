@@ -135,6 +135,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [AutoParcel](https://github.com/frankiesardo/auto-parcel) | https://github.com/frankiesardo/auto-parcel | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Akatsuki](https://github.com/tom91136/Akatsuki) | https://github.com/tom91136/Akatsuki | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
