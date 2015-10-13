@@ -41,7 +41,6 @@ Name | Repository | License
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
@@ -51,7 +50,6 @@ Name | Repository | License
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Picasso](http://square.github.io/picasso) | https://github.com/square/picasso | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Volley](https://android.googlesource.com/platform/frameworks/volley) | https://android.googlesource.com/platform/frameworks/volley | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Fresco](http://frescolib.org) | https://github.com/facebook/fresco | [BSD License](https://github.com/facebook/fresco/blob/master/LICENSE)
 ## Drawable
 Name | Repository | License
