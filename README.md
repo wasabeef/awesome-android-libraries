@@ -35,13 +35,13 @@ This is an alphabetical list of libraries for Android development, the majority 
 ## Networking
 Name | Repository | License
 --- | --- | --- | ---
-[Android Asynchronous Http Client](http://loopj.com/android-async-http) | https://github.com/loopj/android-async-http | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Android Asynchronous Http Client](http://loopj.com/android-async-http/) | https://github.com/loopj/android-async-http | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Basic HTTP Client for Java](https://github.com/turbomanage/basic-http-client) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
 Name | Repository | License
@@ -75,7 +75,7 @@ Name | Repository | License
 ## JSON 
 Name | Repository | License
 --- | --- | --- | ---
-[Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Gson](https://github.com/google/gson) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -99,7 +99,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Couchbase-Lite-Android](http://developer.couchbase.com/mobile/) | https://github.com/couchbase/couchbase-lite-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Realm](http://realm.io/) | https://github.com/realm/realm-java | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Realm](https://realm.io/) | https://github.com/realm/realm-java | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | https://github.com/Jearil/SimpleNoSQL | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SnappyDB](http://www.snappydb.com/) | https://github.com/nhachicha/SnappyDB | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -154,7 +154,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE | [MIT](http://opensource.org/licenses/MIT)
 [Facebook SDK](https://developers.facebook.com/docs/android) | https://github.com/facebook/facebook-android-sdk | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Twitter Fabric](https://dev.twitter.com/products/fabric) | Unknown | Unknown
+[Twitter Fabric](https://get.fabric.io) | Unknown | Unknown
 
 ## WebRTC
 Name | Repository | License
@@ -169,7 +169,7 @@ Name | Repository | License
 ## Camera
 Name | Repository | License
 --- | --- | --- | ---
-[Landscape video camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Landscape video camera](https://github.com/JeroenMols/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [EasyCamera](https://github.com/Glamdring/EasyCamera) | https://github.com/Glamdring/EasyCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Build
