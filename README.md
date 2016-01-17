@@ -209,6 +209,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [GraphHopper](https://graphhopper.com) | https://github.com/graphhopper/graphhopper | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Mapsforge](https://github.com/mapsforge/mapsforge) | https://github.com/mapsforge/mapsforge | [LGPL](https://www.gnu.org/licenses/lgpl.html)
+[PictureMarker](https://github.com/oktayayr/PictureMarker) | https://github.com/oktayayr/PictureMarker | [MIT](https://opensource.org/licenses/MIT)
 
 
 Other
