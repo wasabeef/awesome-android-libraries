@@ -92,6 +92,7 @@ Name | Repository | License
 [SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [TriOrm](https://github.com/HendrixString/Android-TriOrm) | https://github.com/HendrixString/Android-TriOrm | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[CPOrm](https://github.com/Wackymax/CPOrm) | https://github.com/Wackymax/CPOrm | [MIT License](https://opensource.org/licenses/MIT)
 
 
 
