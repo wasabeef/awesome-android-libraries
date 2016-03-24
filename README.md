@@ -60,6 +60,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [AndroidAnnotations](http://androidannotations.org/) | https://github.com/excilys/androidannotations | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Anvil](https://github.com/zserge/anvil) | https://github.com/zserge/anvil | [MIT](http://opensource.org/licenses/MIT)
 [Butter Knife](http://jakewharton.github.io/butterknife/) | https://github.com/JakeWharton/butterknife | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Dagger(Square)](http://square.github.io/dagger/) | https://github.com/square/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
