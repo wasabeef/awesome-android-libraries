@@ -101,6 +101,7 @@ Name | Repository | License
 [Couchbase-Lite-Android](http://developer.couchbase.com/mobile/) | https://github.com/couchbase/couchbase-lite-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Realm](http://realm.io/) | https://github.com/realm/realm-java | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | https://github.com/Jearil/SimpleNoSQL | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) | https://github.com/xmartlabs/RxSimpleNoSQL | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SnappyDB](http://www.snappydb.com/) | https://github.com/nhachicha/SnappyDB | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Pub/Sub
