@@ -116,6 +116,8 @@ Name | Repository | License
 --- | --- | --- | ---
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[logger](https://github.com/orhanobut/logger)|https://github.com/orhanobut/logger| [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[logger extend](https://github.com/tuanchauict/logger)|https://github.com/tuanchauict/logger|[Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Background Processing
 Name | Repository | License
