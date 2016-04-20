@@ -69,6 +69,7 @@ Name | Repository | License
 ## FRP
 Name | Repository | License
 --- | --- | --- | ---
+[Agera](https://github.com/google/agera) | https://github.com/google/agera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | https://github.com/ReactiveX/RxAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxJava](https://github.com/ReactiveX/RxJava) | https://github.com/ReactiveX/RxJava | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
