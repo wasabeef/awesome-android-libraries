@@ -72,14 +72,15 @@ Name | Repository | License
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | https://github.com/ReactiveX/RxAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxJava](https://github.com/ReactiveX/RxJava) | https://github.com/ReactiveX/RxJava | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-## JSON 
+## JSON
 Name | Repository | License
 --- | --- | --- | ---
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[JSONApi.org](http://jsonapi.org) | https://github.com/faogustavo/JSONApi | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-## O/R Mapping 
+## O/R Mapping
 Name | Repository | License
 --- | --- | --- | ---
 [ActiveAndroid](http://www.activeandroid.com/) | https://github.com/pardom/ActiveAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -129,7 +130,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Calligraphy](https://github.com/chrisjenx/Calligraphy) | https://github.com/chrisjenx/Calligraphy | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
- 
+
 ## Video
 Name | Repository | License
 --- | --- | --- | ---
