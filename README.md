@@ -166,6 +166,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Compressor](https://github.com/zetbaitsu/Compressor) | https://github.com/zetbaitsu/Compressor | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Camera
 Name | Repository | License
