@@ -35,6 +35,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 ## Networking
 Name | Repository | License
 --- | --- | --- | ---
+[Androble](https://github.com/sdsmdg/Androble/) | https://github.com/sdsmdg/Androble | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Android Asynchronous Http Client](http://loopj.com/android-async-http) | https://github.com/loopj/android-async-http | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
