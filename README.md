@@ -22,7 +22,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Parcelables](#parcelables)
 * [Functional Programming](#functional-programming)
   * [Adding Java-8 Functional Programming Features](#adding-java-8-functional-programming-features)
-  * [FRP](#frp)
+  * [Functional Reactive Programming](#functional-reactive-programming)
 * [Social Networks](#social-networks)
 * [WebRTC](#webrtc)
 * [Image Processing](#image-processing)
@@ -147,7 +147,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [Retrolambda](https://github.com/orfjackal/retrolambda) | https://github.com/orfjackal/retrolambda | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
-#### FRP
+#### Functional Reactive Programming
 Name | Repository | License
 --- | --- | --- | ---
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | https://github.com/ReactiveX/RxAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
