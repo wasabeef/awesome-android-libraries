@@ -11,7 +11,6 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Image Loader](#image-loader)
 * [Drawable](#drawable)
 * [Dependency Injections](#dependency-injections)
-* [FRP](#frp)
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
@@ -22,6 +21,8 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Video](#video)
 * [Parcelables](#parcelables)
 * [Functional Programming](#functional-programming)
+  * [Adding Java-8 Functional Programming Features](#adding-java-8-functional-programming-features)
+  * [Functional Reactive Programming](#functional-reactive-programming)
 * [Social Networks](#social-networks)
 * [WebRTC](#webrtc)
 * [Image Processing](#image-processing)
@@ -65,12 +66,6 @@ Name | Repository | License
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes | [MIT](http://opensource.org/licenses/MIT)
-
-## FRP
-Name | Repository | License
---- | --- | --- | ---
-[RxAndroid](https://github.com/ReactiveX/RxAndroid) | https://github.com/ReactiveX/RxAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[RxJava](https://github.com/ReactiveX/RxJava) | https://github.com/ReactiveX/RxJava | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## JSON 
 Name | Repository | License
@@ -146,9 +141,17 @@ Name | Repository | License
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Functional Programming
+
+#### Adding Java-8 Functional Programming Features
 Name | Repository | License
 --- | --- | --- | ---
 [Retrolambda](https://github.com/orfjackal/retrolambda) | https://github.com/orfjackal/retrolambda | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+#### Functional Reactive Programming
+Name | Repository | License
+--- | --- | --- | ---
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) | https://github.com/ReactiveX/RxAndroid | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[RxJava](https://github.com/ReactiveX/RxJava) | https://github.com/ReactiveX/RxJava | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Social Networks
 Name | Repository | License
