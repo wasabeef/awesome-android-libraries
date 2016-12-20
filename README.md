@@ -1,6 +1,5 @@
 List of Android Libraries
 ======================
-![Project status](http://stillmaintained.com/wasabeef/awesome-android-libraries.png)
 
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
