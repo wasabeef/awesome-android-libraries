@@ -42,6 +42,7 @@ Name | Repository | License
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Bridge](https://github.com/afollestad/bridge) | https://github.com/afollestad/bridge | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
 Name | Repository | License
@@ -86,8 +87,7 @@ Name | Repository | License
 [SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [TriOrm](https://github.com/HendrixString/Android-TriOrm) | https://github.com/HendrixString/Android-TriOrm | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-
-
+[Inquiry](https://github.com/afollestad/inquiry) | https://github.com/afollestad/inquiry | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## NoSQL
 Name | Repository | License
@@ -174,6 +174,7 @@ Name | Repository | License
 --- | --- | --- | ---
 [Landscape video camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | https://github.com/jmolsmobile/LandscapeVideoCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [EasyCamera](https://github.com/Glamdring/EasyCamera) | https://github.com/Glamdring/EasyCamera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Material Camera](https://github.com/afollestad/material-camera) | https://github.com/afollestad/material-camera | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Build
 Name | Repository | License
@@ -184,6 +185,8 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Grab'n Run](https://github.com/lukeFalsina/Grab-n-Run) | https://github.com/lukeFalsina/Grab-n-Run | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Digitus](https://github.com/afollestad/digitus) | https://github.com/afollestad/digitus | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Assent](https://github.com/afollestad/assent) | https://github.com/afollestad/assent | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Media
 Name | Repository | License
