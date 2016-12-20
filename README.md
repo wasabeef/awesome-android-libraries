@@ -114,7 +114,8 @@ Name | Repository | License
 ## Background Processing
 Name | Repository | License
 --- | --- | --- | ---
-[Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) | https://github.com/path/android-priority-jobqueue | [MIT](http://opensource.org/licenses/MIT)
+[Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) | https://github.com/yigit/android-priority-jobqueue | [MIT](https://github.com/yigit/android-priority-jobqueue/blob/master/jobqueue/LICENSE.txt)
+[Android Job](https://github.com/evernote/android-job) | https://github.com/evernote/android-job | [Apache License](https://github.com/evernote/android-job/blob/master/LICENSE)
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Zorn](https://github.com/HendrixString/Android-Zorn) | https://github.com/HendrixString/Android-Zorn | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
