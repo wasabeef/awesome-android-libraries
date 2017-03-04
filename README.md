@@ -72,6 +72,7 @@ Name | Repository | License
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[JSON](http://github.com/amirdew/JSON) | http://github.com/amirdew/JSON | [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
 ## O/R Mapping 
 Name | Repository | License
