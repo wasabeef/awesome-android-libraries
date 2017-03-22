@@ -40,6 +40,7 @@ Name | Repository | License
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Fast-Android-Networking](https://amitshekhariitbhu.github.io/Fast-Android-Networking) | https://github.com/amitshekhariitbhu/Fast-Android-Networking | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
