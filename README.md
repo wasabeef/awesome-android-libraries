@@ -42,6 +42,7 @@ Name | Repository | License
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Android Host Monitor](https://github.com/alexbbb/android-host-monitor) | https://github.com/alexbbb/android-host-monitor | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
 Name | Repository | License
