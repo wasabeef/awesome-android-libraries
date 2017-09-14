@@ -109,6 +109,7 @@ Name | Repository | License
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) | https://github.com/ihsanbal/LoggingInterceptor | [MIT](http://opensource.org/licenses/MIT)
+[SuperLog](https://github.com/groverankush/SuperLog) | https://github.com/groverankush/SuperLog | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Background Processing
 Name | Repository | License
