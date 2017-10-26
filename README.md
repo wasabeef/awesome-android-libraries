@@ -42,6 +42,7 @@ Name | Repository | License
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Atomic] (https://shiburagi.github.io/Atomic/) | https://shiburagi.github.io/Atomic/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
 Name | Repository | License
@@ -70,6 +71,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Moshi](https://github.com/square/moshi) | https://github.com/square/moshi | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -215,3 +217,4 @@ Name | Repository | License
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+- [Conceal SharedPreferences](https://github.com/afiqiqmal/ConcealSharedPreference-Android) | https://github.com/afiqiqmal/ConcealSharedPreference-Android | [MIT License](https://opensource.org/licenses/MIT)
