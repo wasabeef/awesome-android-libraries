@@ -155,7 +155,7 @@ Name | Repository | License
 --- | --- | ---
 [ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE | [MIT](http://opensource.org/licenses/MIT)
 [Facebook SDK](https://developers.facebook.com/docs/android) | https://github.com/facebook/facebook-android-sdk | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Twitter Fabric](https://dev.twitter.com/products/fabric) | Unknown | Unknown
+[Fabric](https://get.fabric.io/) | https://github.com/google-fabric | Unknown
 
 ## WebRTC
 Name | Repository | License
