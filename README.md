@@ -10,6 +10,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Image Loader](#image-loader)
 * [Drawable](#drawable)
 * [Dependency Injections](#dependency-injections)
+* [Android Services](#android-services)
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
 * [NoSQL](#nosql)
@@ -65,6 +66,12 @@ Name | Repository | License
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes | [MIT](http://opensource.org/licenses/MIT)
+
+## Android Services
+Name | Repository | License
+--- | --- | ---
+[Remoter](https://github.com/josesamuel/remoter) | https://github.com/josesamuel/remoter | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Service Connector](https://github.com/josesamuel/serviceconnector) | https://github.com/josesamuel/serviceconnector | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## JSON 
 Name | Repository | License
