@@ -155,7 +155,7 @@ Name | Repository | License
 --- | --- | ---
 [ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE | [MIT](http://opensource.org/licenses/MIT)
 [Facebook SDK](https://developers.facebook.com/docs/android) | https://github.com/facebook/facebook-android-sdk | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
-[Twitter Fabric](https://dev.twitter.com/products/fabric) | Unknown | Unknown
+[Fabric](https://get.fabric.io/) | https://github.com/google-fabric | Unknown
 
 ## WebRTC
 Name | Repository | License
@@ -214,4 +214,4 @@ Name | Repository | License
 --- | --- | ---
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | https://github.com/prashantsolanki3/Secure-Pref-Manager | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
