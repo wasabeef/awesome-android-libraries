@@ -28,6 +28,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Camera](#camera)
 * [Security](#security)
 * [Media](#media)
+* [Utilities](#utilities)
 * [Showcases](#showcases)
 * [Maps](#maps)
 * [Other](#other)
@@ -187,6 +188,12 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | https://github.com/HendrixString/Android-PdfMyXml | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Utilities
+Name | Repository | License
+--- | --- | ---
+[RecyclerView Margin Decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration) | https://github.com/TheKhaeng/recycler-view-margin-decoration | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 ## Showcases
 Name | Repository | License
