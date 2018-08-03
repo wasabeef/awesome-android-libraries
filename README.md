@@ -208,6 +208,7 @@ Name | Repository | License
 --- | --- | ---
 [GraphHopper](https://graphhopper.com) | https://github.com/graphhopper/graphhopper | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Mapsforge](https://github.com/mapsforge/mapsforge) | https://github.com/mapsforge/mapsforge | [LGPL](https://www.gnu.org/licenses/lgpl.html)
+[GLMap](https://getyourmap.com) | https://getyourmap.com | [Commercial](https://github.com/GLMap/GLMapPod/blob/master/LICENSE)
 
 ## Other
 Name | Repository | License
