@@ -18,6 +18,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Background Processing](#background-processing)
 * [Fonts](#fonts)
 * [Video](#video)
+* [Voice](#voice)
 * [Parcelables](#parcelables)
 * [Functional Programming](#functional-programming)
   * [Adding Java-8 Functional Programming Features](#adding-java-8-functional-programming-features)
@@ -129,6 +130,10 @@ Name | Repository | License
 [ijkplayer](https://github.com/bbcallen/ijkplayer) | https://github.com/bbcallen/ijkplayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [mp4parser](https://code.google.com/p/mp4parser/) | https://github.com/sannies/mp4parser | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## Voice
+Name | Repository | License
+--- | --- | ---
+[Voice Overlay](https://github.com/algolia/voice-overlay-android) | https://github.com/algolia/voice-overlay-android | [MIT](https://opensource.org/licenses/MIT) 
 ## Parcelables
 Name | Repository | License
 --- | --- | ---
