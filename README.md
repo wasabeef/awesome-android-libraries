@@ -95,6 +95,7 @@ Name | Repository | License
 [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | https://github.com/Jearil/SimpleNoSQL | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) | https://github.com/xmartlabs/RxSimpleNoSQL | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [SnappyDB](http://www.snappydb.com/) | https://github.com/nhachicha/SnappyDB | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Android-NoSql](https://github.com/florent37/Android-NoSql) | https://github.com/florent37/Android-NoSql | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Pub/Sub
 Name | Repository | License
