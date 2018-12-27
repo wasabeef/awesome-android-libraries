@@ -215,3 +215,6 @@ Name | Repository | License
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) | https://github.com/jmfayard/buildSrcVersions | [MIT](http://opensource.org/licenses/MIT)
+
+
