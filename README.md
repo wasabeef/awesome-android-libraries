@@ -30,6 +30,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Media](#media)
 * [Showcases](#showcases)
 * [Maps](#maps)
+* [Notification](#notification)
 * [Other](#other)
 
 ## Networking
@@ -209,9 +210,14 @@ Name | Repository | License
 [GraphHopper](https://graphhopper.com) | https://github.com/graphhopper/graphhopper | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Mapsforge](https://github.com/mapsforge/mapsforge) | https://github.com/mapsforge/mapsforge | [LGPL](https://www.gnu.org/licenses/lgpl.html)
 
+## Notification
+Name | Repository | License
+--- | --- | ---
+[Notify](https://github.com/Karn/notify) | https://github.com/Karn/notify | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+
 ## Other
 Name | Repository | License
 --- | --- | ---
-[Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [MIT License](https://opensource.org/licenses/MIT)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
