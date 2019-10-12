@@ -31,6 +31,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Showcases](#showcases)
 * [Maps](#maps)
 * [Notification](#notification)
+* [Bluetooth](#bluetooth)
 * [Other](#other)
 
 ## Networking
@@ -214,6 +215,11 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [Notify](https://github.com/Karn/notify) | https://github.com/Karn/notify | [MIT](http://opensource.org/licenses/MIT)
+
+## Bluetooth
+Name | Repository | License
+--- | --- | ---
+[RxAndroidBle](https://www.polidea.com/blog/RxAndroidBLE_the_most_Simple_way_to_code_Bluetooth_Low_Energy_devices) | https://github.com/Polidea/RxAndroidBle | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Other
 Name | Repository | License
