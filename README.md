@@ -213,11 +213,11 @@ Name | Repository | License
 ## Notification
 Name | Repository | License
 --- | --- | ---
-[Notify](https://github.com/Karn/notify) | https://github.com/Karn/notify | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Notify](https://github.com/Karn/notify) | https://github.com/Karn/notify | [MIT](http://opensource.org/licenses/MIT)
 
 ## Other
 Name | Repository | License
 --- | --- | ---
-[Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [MIT License](https://opensource.org/licenses/MIT)
+[Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
