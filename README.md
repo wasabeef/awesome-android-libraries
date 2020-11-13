@@ -42,6 +42,7 @@ Name | Repository | License
 [Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[ktor](https://github.com/ktorio/ktor) | https://github.com/ktorio/ktor | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Image Loader
 Name | Repository | License
@@ -65,6 +66,8 @@ Name | Repository | License
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes | [MIT](http://opensource.org/licenses/MIT)
+[KOIN](https://github.com/InsertKoinIO/koin) | https://github.com/InsertKoinIO/koin | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) | https://github.com/Kodein-Framework/Kodein-DI | [MIT](http://opensource.org/licenses/MIT)
 
 ## JSON 
 Name | Repository | License
@@ -109,6 +112,7 @@ Name | Repository | License
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) | https://github.com/ihsanbal/LoggingInterceptor | [MIT](http://opensource.org/licenses/MIT)
+[Logger](https://github.com/orhanobut/logger) | https://github.com/orhanobut/logger | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Background Processing
 Name | Repository | License
@@ -187,6 +191,8 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | https://github.com/HendrixString/Android-PdfMyXml | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[ijkplayer](https://github.com/bilibili/ijkplayer) | https://github.com/bilibili/ijkplayer | [LGPL](https://www.gnu.org/licenses/lgpl.html)
+[ExoPlayer](https://github.com/google/ExoPlayer) | https://github.com/google/ExoPlayer | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Showcases
 Name | Repository | License
@@ -215,3 +221,6 @@ Name | Repository | License
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Bolts](https://github.com/BoltsFramework/Bolts-Android) | https://github.com/BoltsFramework/Bolts-Android | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/ | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[LeakCanary](https://github.com/square/leakcanary) | https://github.com/square/leakcanary | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[BlockCanary](https://github.com/markzhai/AndroidPerformanceMonitor) | https://github.com/markzhai/AndroidPerformanceMonitor | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Flipper](https://github.com/facebook/flipper) | https://github.com/facebook/flipper | [MIT](http://opensource.org/licenses/MIT)
