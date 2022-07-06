@@ -106,6 +106,7 @@ Name | Repository | License
 ## Logger
 Name | Repository | License
 --- | --- | ---
+[PinLog](https://github.com/AdityaBavadekar/PinLog) | https://github.com/AdityaBavadekar/PinLog | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) | https://github.com/ihsanbal/LoggingInterceptor | [MIT](http://opensource.org/licenses/MIT)
