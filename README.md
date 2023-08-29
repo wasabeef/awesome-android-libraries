@@ -9,6 +9,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 * [Networking](#networking)
 * [Image Loader](#image-loader)
 * [Drawable](#drawable)
+* [Runtime Permission](#runtime-permission)
 * [Dependency Injections](#dependency-injections)
 * [JSON](#json)
 * [O/R Mapping](#or-mapping)
@@ -55,6 +56,11 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | ---
 [MrVector](https://github.com/telly/MrVector) | https://github.com/telly/MrVector | [License](https://github.com/telly/MrVector/blob/master/LICENSE)
+
+## Runtime Permission
+Name | Repository | License
+--- | --- | ---
+[Permission Manager](https://github.com/alik7-cmd/permission-manager) | https://github.com/alik7-cmd/permission-manager | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Dependency Injections
 Name | Repository | License
